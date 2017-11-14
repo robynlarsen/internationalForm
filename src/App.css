@@ -1,0 +1,23 @@
+.type-title {
+  font-size: 32px;
+  display: block;
+  margin-bottom: 50px;
+  font-weight: 400;
+}
+
+.type-title::after {
+  content: '';
+  display: block;
+  background-color: var(--green);
+  width: 20px;
+  height: 3px;
+  position: relative;
+  top: 10px;
+}
+
+.container {
+  padding-top: 15vh;
+  max-width: 780px;
+  margin-left: auto;
+  margin-right: auto;
+}
