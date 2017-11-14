@@ -1,6 +1,10 @@
 # International Form Component
 Quick iteration on an example form.
 
+TODO
+- Add grid system to integrate repsonsive views
+- Add handleChange function to form field values
+- Separate out form component
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
